@@ -3,6 +3,10 @@
 ## Janji
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+## Desain Program
+
+
+
 ## Penjelasan Kodingan / Program
 
 #### 1. Program Dimulai (Menu.java)
