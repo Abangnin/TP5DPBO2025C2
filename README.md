@@ -5,7 +5,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Penjelasan Kodingan / Program
 
-1. Program Dimulai (Menu.java)
+#### 1. Program Dimulai (Menu.java)
 
 - Program dijalankan melalui method main() di kelas Menu.
 
@@ -21,14 +21,14 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Membuat koneksi ke database melalui objek Database.
 
-2. Menampilkan Data Mahasiswa di Tabel
+#### 2. Menampilkan Data Mahasiswa di Tabel
 - Saat program dijalankan:
 
   - Memanggil method setTable(), yang mengambil data dari database (mahasiswa table).
 
   - Hasil query dari database disimpan dalam DefaultTableModel, lalu ditampilkan di JTable.
 
-3. Menambahkan Mahasiswa (insertData)
+#### 3. Menambahkan Mahasiswa (insertData)
 - User mengisi form input:
 
   - NIM
@@ -51,7 +51,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Tabel diperbarui untuk menampilkan data baru.
 
-4. Mengubah Data Mahasiswa (updateData)
+#### 4. Mengubah Data Mahasiswa (updateData)
 - User memilih satu baris di tabel mahasiswa.
 
 - Data mahasiswa diisi kembali ke form input.
@@ -68,7 +68,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Tabel diperbarui setelah perubahan dilakukan.
 
-5. Menghapus Satu Data Mahasiswa (deleteData)
+#### 5. Menghapus Satu Data Mahasiswa (deleteData)
 - User memilih satu baris di tabel.
 
 - Klik Delete, lalu muncul konfirmasi dialog.
@@ -81,7 +81,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Tabel diperbarui untuk menghapus data yang telah dihapus.
 
-6. Menghapus Semua Data Mahasiswa (Delete All)
+#### 6. Menghapus Semua Data Mahasiswa (Delete All)
 - User menekan tombol "Delete All".
 
 - Jika daftar mahasiswa tidak kosong, muncul konfirmasi dialog.
@@ -94,7 +94,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Tabel diperbarui dan form dikosongkan.
 
-7. Membersihkan Form Input (clearForm)
+#### 7. Membersihkan Form Input (clearForm)
 - Saat user klik Cancel atau selesai operasi:
 
   - Semua input dikosongkan.
