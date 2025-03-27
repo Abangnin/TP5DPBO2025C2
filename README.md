@@ -107,4 +107,31 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Dokumentasi
 
-  
+![Image](https://github.com/user-attachments/assets/3ec46d75-8a95-48da-b7ae-4757d4e12354)
+
+![Image](https://github.com/user-attachments/assets/23e5b527-a7ba-4469-ab22-df2df3787fc6)
+
+![Image](https://github.com/user-attachments/assets/2d2c2897-d9d9-4cfe-a30e-6af81a30e70f)
+
+![Image](https://github.com/user-attachments/assets/116d3718-d91d-42ae-827e-e05c47e4d21a)
+
+![Image](https://github.com/user-attachments/assets/0b136906-f9a0-4e47-ac5c-30f59efb160f)
+
+![Image](https://github.com/user-attachments/assets/df00c040-5eb0-4165-a193-c300693c935e)
+
+![Image](https://github.com/user-attachments/assets/aff7d7f7-9101-41eb-80f7-c131aae71def)
+
+![Image](https://github.com/user-attachments/assets/8e764472-11f0-48cc-9168-8c7b6ede0eee)
+
+![Image](https://github.com/user-attachments/assets/fcee5f42-527d-40e6-accf-d598b7edf519)
+
+![Image](https://github.com/user-attachments/assets/9805d7c6-fab1-4847-9f24-ff819a724e0d)
+
+![Image](https://github.com/user-attachments/assets/f819f110-2b96-4537-8d89-7221a99a3b49)
+
+![Image](https://github.com/user-attachments/assets/1fa45933-6dda-4775-822d-3592dc284781)
+
+![Image](https://github.com/user-attachments/assets/c3e24865-9c5c-41cc-80aa-877ba31240e6)
+
+![Image](https://github.com/user-attachments/assets/46aeae6b-9f54-4c47-a9f8-194f0f257321)
+
