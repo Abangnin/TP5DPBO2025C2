@@ -73,7 +73,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Klik Delete, lalu muncul konfirmasi dialog.
 
-- Jika user menekan Yes, maka semua data di dalamnya akan terhapus.
+- Jika user menekan Yes, maka data yang terpilih akan terhapus.
 
 - Tabel diperbarui untuk menghapus data yang telah dihapus.
 
@@ -82,11 +82,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Jika daftar mahasiswa tidak kosong, muncul konfirmasi dialog.
 
-- Jika user menekan Yes:
-
-  - Semua data dihapus dari database menggunakan query:
-
-        DELETE FROM mahasiswa;
+- Jika user menekan Yes, maka semua data akan terhapus.
 
 - Tabel diperbarui dan form dikosongkan.
 
